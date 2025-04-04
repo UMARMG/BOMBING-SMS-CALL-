@@ -105,7 +105,7 @@ sudo bash UMG.sh
 
 ## Demontrative Video:
 
-- Watch Indian Bombing Method <a href="https://www.youtube.com/watch?v=3OGGi0AtCB8&t=12s&ab_channel=CyberGhost">here</a><br>
+- Watch Nigeria Bombing Method <a href=https://t.me/UMARMG23">here</a><br>
 
 Feel Free To Open An Issue...
 
