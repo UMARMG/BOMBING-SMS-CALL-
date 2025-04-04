@@ -51,10 +51,10 @@ To use the bomber type the following commands in Termux:
 ```
 pkg install git
 pkg install python
-git clone https://github.com/MrTusarRX/BOMBING.git
+git clone https://github.com/UMARMG/BOMBING-SMS-CALL-.git
 cd BOMBING
-chmod +x MrTusarRX.sh
-./MrTusarRX.sh
+chmod +x UMG.sh
+./UMG.sh
 ```
 
 ### > For Linux:
@@ -69,10 +69,10 @@ Commands below provide instructions for Debian-based systems.
 To use the bomber type the following commands in Linux terminal:
 ```
 sudo apt install git
-git clone https://github.com/MrTusarRX/BOMBING.git
+git clone https://github.com/UMARMG/BOMBING-SMS-CALL-.git
 cd BOMBING
-chmod +x MrTusarRX.sh
-sudo bash MrTusarRX.sh
+chmod +x UMG.sh
+sudo bash UMG.sh
 ```
 
 ### > For macOS:
@@ -89,18 +89,18 @@ brew install git
 brew install python3
 sudo easy_install pip
 sudo pip install --upgrade pip
-git clone https://github.com/MrTusarRX/BOMBING.git
+git clone https://github.com/UMARMG/BOMBING-SMS-CALL-git
 cd BOMBING
-chmod +x MrTusarRX.sh
+chmod +x UMG.sh
 THIS IS COPY BY ME ONL EDUCATION
 
 # Missing Tools on MacOS
 
-Toilet cannot be installed yet. But MrTusarRX does still work.
+Toilet cannot be installed yet. But UMG does still work.
 
-# Run MrTusarRX:
+# Run UMG:
 
-sudo bash MrTusarRX.sh
+sudo bash UMG.sh
 ```
 
 ## Demontrative Video:
@@ -110,9 +110,9 @@ sudo bash MrTusarRX.sh
 Feel Free To Open An Issue...
 
 ```
-                 Mail: khantusar717@gmail.com<br>
-       YouTube Channel:https://www.youtube.com/channel/UCol5J1gg7wUOBaK-UVC4uLQ
+                 Mail: umarmodugana84@gmail.com<br>
+       Telegram Channel:https://t.me/UMARMG23
 ```
 
-<a href="https://www.youtube.com/channel/UCol5J1gg7wUOBaK-UVC4uLQ">Check Out My YouTube Channel</a>
+<a href="https://t.me/UMARMG23">Check Out My Telegram Channel</a>
 
