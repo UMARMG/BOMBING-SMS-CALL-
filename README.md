@@ -52,7 +52,7 @@ To use the bomber type the following commands in Termux:
 pkg install git
 pkg install python
 git clone https://github.com/UMARMG/BOMBING-SMS-CALL-.git
-cd BOMBING
+cd BOMBING-SMS-CALL-
 chmod +x UMG.sh
 ./UMG.sh
 ```
@@ -70,7 +70,7 @@ To use the bomber type the following commands in Linux terminal:
 ```
 sudo apt install git
 git clone https://github.com/UMARMG/BOMBING-SMS-CALL-.git
-cd BOMBING
+cd BOMBING-SMS-CALL-
 chmod +x UMG.sh
 sudo bash UMG.sh
 ```
@@ -90,7 +90,7 @@ brew install python3
 sudo easy_install pip
 sudo pip install --upgrade pip
 git clone https://github.com/UMARMG/BOMBING-SMS-CALL-git
-cd BOMBING
+cd BOMBING-SMS-CALL-
 chmod +x UMG.sh
 THIS IS COPY BY ME ONL EDUCATION
 
