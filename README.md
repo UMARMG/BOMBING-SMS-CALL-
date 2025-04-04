@@ -105,7 +105,7 @@ sudo bash UMG.sh
 
 ## Demontrative Video:
 
-- Watch Nigeria Bombing Method <a href=https://t.me/UMARMG23">here</a><br>
+- Watch Nigeria Bombing Method <a href=<https://t.me/UMARMG23">here</a><br>
 
 Feel Free To Open An Issue...
 
